@@ -1,0 +1,21 @@
+ HMSET product:1 ca 100 "Description du produit #1" 
+ HMSET product:2 ca 100 "Description du produit #2"
+ HMSET product:3 ca 100 "Description du produit #3"
+ HMSET product:4 ca 100 "Description du produit #4"
+ HMSET product:5 ca 100 "Description du produit #5"
+ HMSET product:6 ca 100 "Description du produit #6" 
+ HMSET product:7 ca 100 "Description du produit #7"
+ HMSET product:8 ca 100 "Description du produit #8"
+ HMSET product:9 ca 100 "Description du produit #9"
+ HMSET product:10 ca 100 "Description du produit #10"
+ 
+ SADD products 1
+ SADD products 2
+ SADD products 3
+ SADD products 4
+ SADD products 5
+ SADD products 6
+ SADD products 7
+ SADD products 8
+ SADD products 9
+ SADD products 10
